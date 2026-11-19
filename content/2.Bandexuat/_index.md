@@ -38,7 +38,7 @@ Deploy the system in the **Singapore Region (`ap-southeast-1`)**, using one VPC,
 
 Users access the website through an Internet Gateway to EC2, with traffic controlled by a Network ACL and a Security Group. EC2 accesses the private S3 bucket through an S3 Gateway VPC Endpoint using an IAM Role. Metrics and logs are sent to CloudWatch for monitoring, while SNS supports email alert notifications.
 
-<!-- Insert the completed overall architecture diagram here. -->
+![Sơ đồ kiến trúc](/FCAJ_Worklog/images/5/so_do_kien_truc_aws.drawio.png/?featherlight=false&width=90pc)
 
 **Networking and Firewall Configuration — Amazon VPC**
 

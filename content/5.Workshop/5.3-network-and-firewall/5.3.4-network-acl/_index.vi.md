@@ -33,7 +33,7 @@ Network ACL (NACL) không có trạng thái: phải cho phép cả yêu cầu v�
 4. Chọn **Create network ACL**, ghi lại ID dạng `acl-...`.
 5. Chưa liên kết subnet. Nếu NACL đã tồn tại, đối chiếu ID/VPC và kiểm tra trước khi dùng lại.
 
-![](/images/005/nacl1.png)
+![](/FCAJ_Worklog/images/005/nacl1.png)
 
 
 ## Bước 2: Cấu hình inbound rules
@@ -56,7 +56,7 @@ Rule 130 phục vụ phản hồi về các cổng tạm thời khi EC2 chủ đ
 
 Giữ nguyên rule `*`; không thêm All traffic ALLOW trước các quy tắc trên. Không cần cấu hình IPv6 trong workshop này.
 
-![](/images/005/nacl2.png)>
+![](/FCAJ_Worklog/images/005/nacl2.png)>
 
 
 ## Bước 3: Cấu hình outbound rules

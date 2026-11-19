@@ -88,7 +88,7 @@ AWS tự thêm tuyến prefix list khi liên kết endpoint với Route Table. K
 
 Nếu chưa thấy tuyến S3, mở endpoint → **Route tables**, kiểm tra liên kết; dùng **Actions → Manage route tables** để chọn đúng rtb-web-public và lưu. Không chỉnh sửa trực tiếp tuyến endpoint do AWS quản lý.
 
-![](/images/005/ep5.png)
+![](/FCAJ_Worklog/images/005/ep5.png)
 
 
 ## Bước 5: Kiểm tra firewall và bàn giao
