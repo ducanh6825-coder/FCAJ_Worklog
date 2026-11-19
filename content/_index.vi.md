@@ -25,4 +25,4 @@ chapter: false
 
 **Thời gian thực tập:** Từ ngày 24/08/2026 đến ngày 15/10/2026
 
-![abc](./images/1/001/?featherlight=false&width=20pc)
+![abc](./images/ducanh.jpg/?featherlight=false&width=20pc)

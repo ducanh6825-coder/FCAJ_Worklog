@@ -26,4 +26,4 @@ chapter: false
 
 **Internship Duration:** From 24/08/2026 to 15/11/2026
 
-![abc](./images/1/abc.png/?featherlight=false&width=20pc)
+![abc](./images/ducanh.jpg/?featherlight=false&width=20pc)
