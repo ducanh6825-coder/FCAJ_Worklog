@@ -81,7 +81,7 @@ Phạm vi cơ bản chưa có đăng ký tài khoản, quên mật khẩu, phân
 
 Người dùng truy cập website qua HTTPS. Nginx trên EC2 chuyển yêu cầu đến ứng dụng. Sau khi xác thực phiên đăng nhập, ứng dụng thực hiện thao tác S3 bằng IAM Role và trả kết quả về trình duyệt. S3 và CloudWatch là dịch vụ bên ngoài subnet; S3 Gateway Endpoint không đặt bucket bên trong VPC.
 
-![Sơ đồ kiến trúc](/FCAJ_Worklog/images/5/so_do_kien_truc_aws.drawio.png/?featherlight=false&width=90pc)
+![Sơ đồ kiến trúc](/FCAJ_Worklog/images/5/so_do_kien_truc_aws.drawio.png?featherlight=false&width=90pc)
 
 **Các thành phần cần có trong sơ đồ:**
 
