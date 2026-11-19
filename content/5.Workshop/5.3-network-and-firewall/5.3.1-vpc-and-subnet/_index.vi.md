@@ -43,7 +43,7 @@ Tạo VPC **vpc-secure-web** và subnet **subnet-web-public** để chuẩn bị
 
 
 
-![vpc1](/FCAJ_Worklog/images/005/vpc1.png/)
+![vpc1](/FCAJ_Worklog/images/005/vpc1.png)
 
 
 ## Bước 2: Tạo VPC
@@ -59,14 +59,14 @@ Tạo VPC **vpc-secure-web** và subnet **subnet-web-public** để chuẩn bị
 Dùng **VPC only** để thực hiện riêng từng thành phần theo mục lục; không dùng trình tạo tự động VPC and more trong hướng dẫn này.
 
 
-![vpc2](/FCAJ_Worklog/images/005/vpc2.png/)
+![vpc2](/FCAJ_Worklog/images/005/vpc2.png)
 
 
 1. Chọn **Create VPC**.
 2. Mở VPC vừa tạo, kiểm tra trạng thái **Available** và CIDR.
 3.  Sao chép **VPC ID** thực tế vào bảng bàn giao.
 
-![vpc3](/FCAJ_Worklog/images/005/vpc3.png/)
+![vpc3](/FCAJ_Worklog/images/005/vpc3.png)
 
 
 ## Bước 3: Bật DNS cho VPC

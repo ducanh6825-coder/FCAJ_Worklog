@@ -56,7 +56,7 @@ Script đọc tên bucket từ cấu hình, yêu cầu credentials đến từ i
 4. Timeout, lỗi DNS, thiếu credentials hoặc lỗi STS không phải AccessDenied. STS đi qua kết nối HTTPS Internet hiện có, không qua S3 Gateway Endpoint.
 5. Nếu có FAIL, dừng để kiểm tra toàn bộ quyền; không sửa script để đổi kết quả mong đợi. Lưu object thử còn lại để quản trị dọn ở 5.8.
 
-![](/images/kiemthu/s302.png)
+![](/FCAJ_Worklog/images/kiemthu/s302.png)
 
 ## Bước 3: Kiểm tra truy cập ẩn danh — S3-03
 

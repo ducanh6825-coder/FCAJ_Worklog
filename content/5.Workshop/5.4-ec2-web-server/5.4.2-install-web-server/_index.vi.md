@@ -33,7 +33,7 @@ Xác nhận user ec2-user và Amazon Linux 2023. Lệnh upgrade cập nhật the
 
 Nếu quá trình cập nhật yêu cầu khởi động lại, chạy `sudo reboot`, chờ máy sẵn sàng rồi kết nối SSH lại. Reboot làm ngắt phiên SSH; không đồng nghĩa phải tạo EC2 mới.
 
-![](/images/54/inx1.png)
+![](/FCAJ_Worklog/images/54/inx1.png)
 
 
 ## Bước 2: Cài Nginx
@@ -48,7 +48,7 @@ Kết quả phải có phiên bản Nginx và tên gói đã cài. Ghi phiên b�
 
 Bài này chỉ cài máy chủ Nginx. Runtime và thư viện ứng dụng sẽ được cài theo mã nguồn ở 5.4.3, tránh cài nhiều stack không dùng đến.
 
-![](/images/54/inx2.png)
+![](/FCAJ_Worklog/images/54/inx2.png)
 
 
 ## Bước 3: Kiểm tra cấu hình và chạy dịch vụ

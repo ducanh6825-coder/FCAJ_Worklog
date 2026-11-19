@@ -42,7 +42,7 @@ These CIDRs and names follow Section 5.2.2. If the team has agreed on different 
 3. Check the Region at the top and select **Singapore — ap-southeast-1**.
 4. Choose **Your VPCs** in the left menu.
 
-![vpc1](/FCAJ_Worklog/images/005/vpc1.png/)
+![vpc1](/FCAJ_Worklog/images/005/vpc1.png)
 
 
 ## Step 2: Create the VPC
@@ -57,14 +57,14 @@ These CIDRs and names follow Section 5.2.2. If the team has agreed on different 
 
 Use **VPC only** to configure each component separately according to the workshop contents; this guide does not use the automated VPC and more workflow.
 
-![vpc2](/FCAJ_Worklog/images/005/vpc2.png/)
+![vpc2](/FCAJ_Worklog/images/005/vpc2.png)
 
 
 8. Choose **Create VPC**.
 9. Open the created VPC and verify its **Available** status and CIDR.
 10. Copy the actual **VPC ID** into the handover table.
 
-![vpc3](/FCAJ_Worklog/images/005/vpc3.png/)
+![vpc3](/FCAJ_Worklog/images/005/vpc3.png)
 
 
 ## Step 3: Enable VPC DNS Settings
